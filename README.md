@@ -1,4 +1,4 @@
-# Analyzing Customer Churn Patterns for Telecom Provider Databel
+# Analyzing Customer Churn Patterns for Telecom Provider Databel Using Power BI
 
 ## Problem Statement:
 Telecom provider Databel is facing a significant challenge with customer churn. With a churn rate of approximately 27%, the company aims to understand the underlying reasons driving customers to switch to competitors. The dataset provided contains a comprehensive array of information, including customer demographics, contract details, subscription types, and charges, all of which could hold clues to the churn phenomenon.
