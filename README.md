@@ -25,6 +25,9 @@ Telecom provider Databel is facing a significant challenge with customer churn. 
 ### 4. Monthly contract holders, especially females, show higher churn rates.
 ### 5. Customers without international plans represent potential churn targets.
 
+## Dashboarding and Storytelling:
+In the final phase of the project, a comprehensive dashboard was created to encapsulate the journey of discovery and insights gained. The dashboard provided a cohesive narrative, seamlessly weaving together visualizations that depicted the various churn patterns and their underlying drivers. From the geographical distribution of churn rates to demographic breakdowns and contract analyses, each visualization contributed to a holistic understanding of customer behavior. This storytelling approach not only summarized the key findings but also provided actionable insights for Databel to formulate targeted retention strategies and enhance customer satisfaction.
+
 ## Conclusion:
 Through comprehensive data analysis and visualization, key insights into customer churn patterns have been unearthed. Understanding the reasons and demographics behind churn provides Databel with valuable information to devise targeted retention strategies. Moving forward, focusing on addressing competitor actions, optimizing contract offerings, and enhancing customer satisfaction could mitigate churn rates and bolster Databel's market position.
 
