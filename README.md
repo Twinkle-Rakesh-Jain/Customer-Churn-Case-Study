@@ -3,7 +3,7 @@
 ## Problem Statement:
 Telecom provider Databel is facing a significant challenge with customer churn. With a churn rate of approximately 27%, the company aims to understand the underlying reasons driving customers to switch to competitors. The dataset provided contains a comprehensive array of information, including customer demographics, contract details, subscription types, and charges, all of which could hold clues to the churn phenomenon.
 
-https://www.voxco.com/wp-content/uploads/2021/09/Everything-you-need-to-know-about-Customer-Churn1.jpg
+
 
 ## Project Execution:
 
